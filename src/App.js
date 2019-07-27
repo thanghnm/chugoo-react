@@ -2,7 +2,7 @@ import React from 'react';
 import { Route } from 'react-router-dom';
 import HomePage from "./components/pages/HomePage";
 import LoginPage from "./components/pages/LoginPage";
-import MapPage from "./components/pages/MapPage";
+import MapPage from "./components/pages/map/MapPage";
 
 const App = () => (
   <div className="ui container">
