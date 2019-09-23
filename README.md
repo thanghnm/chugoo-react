@@ -7,7 +7,7 @@ History is unfolding before our eyes: The recent climate strikes occurred in 150
 
 Furthermore, in recent years we have witnessed the immense power of distributed-trust systems, evidenced by the current proliferation of open-source software, and the recent emergence of blockchain.
 
-ChuGoo is inspired by the incredible power we have as a collective, and aims to provide a platform where everyone can have a tangible impact in the fight against climate-change.
+ChuGoo is inspired by the incredible power we have as individuals and as a collective, and aims to provide a platform where everyone can have a tangible impact in the fight against climate-change.
 
 An awesome way to do this is plant trees: They're the best technology we have right now for carbon capture. With that in mind, we want to create a radically transparent platform where anyone can contribute to the tree-planting, whether it be by volunteering for some tree-planting project, or by sponsoring it. We think tree-planting is a great way to get everyone involved, and to foster greater connection between communities and the environment.
 
