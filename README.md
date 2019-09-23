@@ -1,3 +1,18 @@
+## What is ChuGoo?
+
+ChuGoo is a radically open-source platform which aims to enable anyone to take action on the climate crisis.
+A very basic prototype of the platform can be seen here: https://kumar-ish.github.io/index.html#
+
+History is unfolding before our eyes: The recent climate strikes occurred in 150 countries, and often exceeded one-hundred thousand participants, cascading from the School Strike for Climate, itself spearheaded by one sixteen year-old girl - Greta Thunberg.
+
+Furthermore, in recent years we have witnessed the immense power of distributed-trust systems, evidenced by the current proliferation of open-source software, and the recent emergence of blockchain.
+
+ChuGoo is inspired by the incredible power we have as a collective, and aims to provide a platform where everyone can have a tangible impact in the fight against climate-change.
+
+An awesome way to do this is plant trees: They're the best technology we have right now for carbon capture. With that in mind, we want to create a radically transparent platform where anyone can contribute to the tree-planting, whether it be by volunteering for some tree-planting project, or sponsoring the project. We think tree-planting is a great way to get everyone involved in the fight, and to foster greater connection between communities and the environment.
+
+We hope to eventually get involved in major reforestation projects, and facilitate the development of a wide range of renewable-energy power-stations.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Note that this is only the logon page, you'll need to navigate to the map repository to access the map app
