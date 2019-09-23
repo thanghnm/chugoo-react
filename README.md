@@ -3,8 +3,6 @@
 ChuGoo is a radically open-source platform which aims to enable anyone to take action on the climate crisis.
 A very basic prototype of the platform can be seen here: https://kumar-ish.github.io/index.html#
 
-The aim of this project is to develop a platform by the people, for the people, that enables climate action.
-
 ## Context
 
 History is unfolding before our eyes: The recent climate strikes occurred in 150 countries, and often exceeded one-hundred thousand participants, cascading from the School Strike for Climate, itself spearheaded by one sixteen year-old girl - Greta Thunberg.
