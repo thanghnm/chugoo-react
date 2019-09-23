@@ -9,7 +9,7 @@ Furthermore, in recent years we have witnessed the immense power of distributed-
 
 ChuGoo is inspired by the incredible power we have as a collective, and aims to provide a platform where everyone can have a tangible impact in the fight against climate-change.
 
-An awesome way to do this is plant trees: They're the best technology we have right now for carbon capture. With that in mind, we want to create a radically transparent platform where anyone can contribute to the tree-planting, whether it be by volunteering for some tree-planting project, or sponsoring the project. We think tree-planting is a great way to get everyone involved in the fight, and to foster greater connection between communities and the environment.
+An awesome way to do this is plant trees: They're the best technology we have right now for carbon capture. With that in mind, we want to create a radically transparent platform where anyone can contribute to the tree-planting, whether it be by volunteering for some tree-planting project, or by sponsoring it. We think tree-planting is a great way to get everyone involved, and to foster greater connection between communities and the environment.
 
 We hope to eventually get involved in major reforestation projects, and facilitate the development of a wide range of renewable-energy power-stations.
 
