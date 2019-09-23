@@ -5,6 +5,8 @@ A very basic prototype of the platform can be seen here: https://kumar-ish.githu
 
 The aim of this project is to develop a platform by the people, for the people, that enables climate action.
 
+## Context
+
 History is unfolding before our eyes: The recent climate strikes occurred in 150 countries, and often exceeded one-hundred thousand participants, cascading from the School Strike for Climate, itself spearheaded by one sixteen year-old girl - Greta Thunberg.
 
 Furthermore, in recent years we have witnessed the immense power of distributed-trust systems, evidenced by the current proliferation of open-source software, and the recent emergence of blockchain.
