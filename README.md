@@ -11,7 +11,7 @@ ChuGoo is inspired by the incredible power we have as a collective, and aims to 
 
 An awesome way to do this is plant trees: They're the best technology we have right now for carbon capture. With that in mind, we want to create a radically transparent platform where anyone can contribute to the tree-planting, whether it be by volunteering for some tree-planting project, or by sponsoring it. We think tree-planting is a great way to get everyone involved, and to foster greater connection between communities and the environment.
 
-We hope to eventually get involved in major reforestation projects, and facilitate the development of a wide range of renewable-energy power-stations.
+We hope to eventually branch into major reforestation projects, and aid in the development of a wide range of renewable-energy power-stations.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
