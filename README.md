@@ -15,8 +15,6 @@ We hope to eventually branch into major reforestation projects, and aid in the d
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Note that this is only the logon page, you'll need to navigate to the map repository to access the map app
-
 ## Available Scripts
 
 In the project directory, you can run:
